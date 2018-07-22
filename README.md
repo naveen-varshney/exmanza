@@ -1,0 +1,2 @@
+# exmanza
+Daily expense management
